@@ -1,0 +1,159 @@
+PODS:
+  - ActivityIndicator (0.1.1):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - Alamofire (4.9.1)
+  - Differentiator (3.1.0)
+  - EmptyDataSet-Swift (5.0.0)
+  - JXCategoryView (1.5.6)
+  - JXPhotoBrowser (3.1.2)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.2.3)
+  - Moya (12.0.1):
+    - Moya/Core (= 12.0.1)
+  - Moya-ObjectMapper (2.8):
+    - Moya-ObjectMapper/Core (= 2.8)
+  - Moya-ObjectMapper/Core (2.8):
+    - Moya (~> 12.0)
+    - ObjectMapper (~> 3.4)
+  - Moya/Core (12.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.0)
+  - Moya/RxSwift (12.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - "NSObject+Rx (4.4.1)":
+    - RxSwift (~> 4.3)
+  - ObjectMapper (3.5.3)
+  - ReachabilitySwift (4.3.1)
+  - Result (4.1.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxMJ (0.5.0):
+    - MJRefresh (~> 3.2.0)
+    - RxCocoa (~> 4.5.0)
+  - RxReachability (0.1.8):
+    - ReachabilitySwift (~> 4.3.0)
+    - RxCocoa (~> 4)
+    - RxSwift (~> 4)
+  - RxSwift (4.5.0)
+  - SDWebImage (5.9.0):
+    - SDWebImage/Core (= 5.9.0)
+  - SDWebImage/Core (5.9.0)
+  - SwiftyJSON (5.0.0)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYText (1.0.7)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+  - ZFPlayer/AVPlayer (4.0.1):
+    - ZFPlayer/Core
+  - ZFPlayer/ControlView (4.0.1):
+    - ZFPlayer/Core
+  - ZFPlayer/Core (4.0.1)
+
+DEPENDENCIES:
+  - ActivityIndicator
+  - Alamofire
+  - EmptyDataSet-Swift
+  - JXCategoryView
+  - JXPhotoBrowser
+  - MBProgressHUD
+  - Moya
+  - Moya-ObjectMapper
+  - Moya/RxSwift
+  - "NSObject+Rx"
+  - ObjectMapper
+  - Result
+  - RxCocoa
+  - RxDataSources
+  - RxMJ
+  - RxReachability
+  - RxSwift
+  - SDWebImage (~> 5.9.0)
+  - SwiftyJSON
+  - YYImage
+  - YYText (from `https://github.com.cnpmjs.org/ibireme/YYText`)
+  - YYWebImage (from `https://github.com.cnpmjs.org/ibireme/YYWebImage.git`)
+  - ZFPlayer/AVPlayer
+  - ZFPlayer/ControlView
+
+SPEC REPOS:
+  trunk:
+    - ActivityIndicator
+    - Alamofire
+    - Differentiator
+    - EmptyDataSet-Swift
+    - JXCategoryView
+    - JXPhotoBrowser
+    - MBProgressHUD
+    - MJRefresh
+    - Moya
+    - Moya-ObjectMapper
+    - "NSObject+Rx"
+    - ObjectMapper
+    - ReachabilitySwift
+    - Result
+    - RxCocoa
+    - RxDataSources
+    - RxMJ
+    - RxReachability
+    - RxSwift
+    - SDWebImage
+    - SwiftyJSON
+    - YYCache
+    - YYImage
+    - ZFPlayer
+
+EXTERNAL SOURCES:
+  YYText:
+    :git: https://github.com.cnpmjs.org/ibireme/YYText
+  YYWebImage:
+    :git: https://github.com.cnpmjs.org/ibireme/YYWebImage.git
+
+CHECKOUT OPTIONS:
+  YYText:
+    :commit: 7bd2aa41414736f6451241725778509fe75860b5
+    :git: https://github.com.cnpmjs.org/ibireme/YYText
+  YYWebImage:
+    :commit: 093193c67bfa2409af93e618a48e3208d63106a5
+    :git: https://github.com.cnpmjs.org/ibireme/YYWebImage.git
+
+SPEC CHECKSUMS:
+  ActivityIndicator: d6602c4021810bf2f2760ac1ffcdd4bd624c65fe
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  JXCategoryView: 603ccd8277a89b1a73e9cedb9d8ed4b294576008
+  JXPhotoBrowser: 7f0bc11f02fbc84ae06829f922f32ce822aa9661
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 2b1214a2dc8f4df4c5dcb028ea2ad4e245425fb7
+  Moya: cf730b3cd9e005401ef37a85143aa141a12fd38f
+  Moya-ObjectMapper: c514b5eafcfd5e260f85f7a5bf66895a217e2b37
+  "NSObject+Rx": 9884a92f19b610795c431e10b4e601913b59c9e9
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxMJ: 869a301f46073c4ad5959719ccff20bb524b29e0
+  RxReachability: 053f2d913db44998242ade488ccaef558f3ce7cb
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SDWebImage: 62ae4a18473520c67b79e9724c31a63599cc9423
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+  ZFPlayer: f88787c815f7b0801279c42f131a89e2823e669e
+
+PODFILE CHECKSUM: 0dc11712f87c3e3fb5b734bfc328eb11ad07ea3e
+
+COCOAPODS: 1.10.0.beta.2

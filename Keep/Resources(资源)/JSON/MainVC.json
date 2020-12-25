@@ -1,0 +1,39 @@
+[
+    {
+    "vcName": "HomeViewController",
+    "normalImg": "",
+    "selImg": "",
+    "title": "首页",
+    "tag": 0
+},
+ {
+    "vcName": "PlanViewController",
+    "normalImg": "",
+    "selImg": "",
+    "title": "计划",
+    "tag": 1
+ },
+ {
+     "vcName": "ExerciseViewController",
+     "normalImg": "",
+     "selImg": "",
+     "title": "运动",
+     "tag": 2
+ },
+ {
+     "vcName": "MallViewController",
+     "normalImg": "",
+     "selImg": "",
+     "title": "商城",
+     "tag": 3
+ },
+ {
+     "vcName": "MineViewController",
+     "normalImg": "",
+     "selImg": "",
+     "title": "我的",
+     "tag": 4
+ }
+ ]
+
+
